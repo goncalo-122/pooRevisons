@@ -144,6 +144,7 @@ public class utente {
  *  @param imc
  *  @return true if is healthy false if isn´t * 
  */
+//ALtera
     public boolean isHealthy(float imc){
         if(imc<18 && imc >25){
             return true;
